@@ -20,6 +20,7 @@ dataclasses-json==0.6.1
 docx2txt==0.8
 faiss-cpu==1.7.4
 Flask==2.3.2
+gunicorn
 Flask-Login==0.6.3
 Flask-SQLAlchemy==3.1.1
 frozenlist==1.4.0
